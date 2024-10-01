@@ -25,7 +25,9 @@ header {
 
 .feed:hover {
     border: solid 3px #8A2E2E;
+    border-radius: 90px;
     transform: scale(1.1);
+    background-color: #D5763C;
 }
  
 .abomanation{
